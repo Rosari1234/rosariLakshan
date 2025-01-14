@@ -21,6 +21,7 @@
 const nextConfig = {
     reactStrictMode: true,
     swcMinify: true,
+    outputFileTracing: true,
     images: {
         domains: [
             'open.cruip.com',
